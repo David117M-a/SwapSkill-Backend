@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUSJ0FEdPTUKBfxQ2CRLH1wAAAAACAAAAAAADZgAAwAAAABAAAAAIddT/Tl6JNdO87oEL2ZmwAAAAAASAAACgAAAAEAAAANyS5LfJLyKIaSrXBL76w8cYAAAA3E263uVbgDwi9WPyZjySp1cxS5pNOki8FAAAAM+Nh4qx2Zq9JKkn8LOEArqXM0wG</EncryptedPassword>
+    <_PublishTargetUrl>ftp://192.52.242.121/www.swapskill.somee.com</_PublishTargetUrl>
+    <History>True|2023-11-29T16:07:39.5111436Z;False|2023-11-29T10:06:34.7791808-06:00;False|2023-11-29T10:05:36.3281100-06:00;True|2023-11-29T10:02:17.2278236-06:00;True|2023-11-24T11:47:27.1754421-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/30/2023 21:12:40</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>11/22/2023 19:43:42</publishTime>
+    </File>
+    <File Include="FireSharp.dll">
+      <publishTime>09/05/2014 22:01:50</publishTime>
+    </File>
+    <File Include="FireSharp.Serialization.JsonNet.dll">
+      <publishTime>09/05/2014 22:02:42</publishTime>
+    </File>
+    <File Include="FubarCoder.RestSharp.Portable.Core.dll">
+      <publishTime>03/06/2017 09:29:54</publishTime>
+    </File>
+    <File Include="FubarCoder.RestSharp.Portable.HttpClient.dll">
+      <publishTime>03/06/2017 09:29:56</publishTime>
+    </File>
+    <File Include="JsonSubTypes.dll">
+      <publishTime>10/18/2022 15:32:20</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Authentication.JwtBearer.dll">
+      <publishTime>10/20/2023 11:31:12</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.OpenApi.dll">
+      <publishTime>09/29/2023 20:12:24</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Abstractions.dll">
+      <publishTime>10/16/2023 20:21:10</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>10/16/2023 19:53:36</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>10/16/2023 19:55:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.dll">
+      <publishTime>01/19/2022 16:30:48</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <publishTime>01/19/2022 16:38:34</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>10/16/2023 20:01:54</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>09/26/2022 07:32:38</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/08/2023 01:09:54</publishTime>
+    </File>
+    <File Include="RestSharp.dll">
+      <publishTime>11/18/2013 10:38:06</publishTime>
+    </File>
+    <File Include="sib_api_v3_sdk.dll">
+      <publishTime>02/24/2023 00:17:56</publishTime>
+    </File>
+    <File Include="Swapkill_Backend.deps.json">
+      <publishTime>11/29/2023 10:07:33</publishTime>
+    </File>
+    <File Include="Swapkill_Backend.dll">
+      <publishTime>11/29/2023 10:07:33</publishTime>
+    </File>
+    <File Include="Swapkill_Backend.exe">
+      <publishTime>11/29/2023 10:07:33</publishTime>
+    </File>
+    <File Include="Swapkill_Backend.pdb">
+      <publishTime>11/29/2023 10:07:33</publishTime>
+    </File>
+    <File Include="Swapkill_Backend.runtimeconfig.json">
+      <publishTime>11/24/2023 11:46:42</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>01/11/2023 00:48:22</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>01/11/2023 00:48:26</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>01/11/2023 00:49:02</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>10/16/2023 19:52:14</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>11/29/2023 10:07:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
